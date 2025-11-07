@@ -33,3 +33,4 @@ En un entorno profesional, el control de versiones es clave para coordinar a var
 
 ### ¿Qué aspectos del trabajo colaborativo aprendiste que podrías aplicar en un equipo profesional?
 Aprendí la importancia de comunicar los cambios con mensajes claros en los commits, trabajar en ramas separadas y usar los pull requests para revisar y aprobar actualizaciones antes de fusionarlas.
+(Cronograma actualizado con fechas y actividades adicionales)
