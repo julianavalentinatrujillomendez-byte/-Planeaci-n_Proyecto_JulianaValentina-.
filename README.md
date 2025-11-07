@@ -9,3 +9,4 @@ Planificar las actividades necesarias para el desarrollo de un software, aplican
 3. Desarrollo e implementación  
 4. Pruebas y validación  
 5. Documentación y entrega final
+
